@@ -60,7 +60,6 @@ rchland	muchado:9
 vnet	rchland	muchado:9
 hernandez	rchland	muchado:9
 vnet	hernandez	rchland	muchado:9
-section:9
 jeff:9
 left:9
 readers:9
@@ -374,14 +373,14 @@ resulting:11
 ways:11
 nearly:11
 carpenter:11
-carpenter	boeing:9
-carpenter	boeing	recommend:9
 carpenter	offer:9
 recommend	carpenter	offer:9
 carpenter	recommendations:9
 recommend	carpenter	recommendations:9
 offer	carpenter	recommendations:9
 recommend	offer	carpenter	recommendations:9
+carpenter	boeing:9
+carpenter	boeing	recommend:9
 carpenter	recommend:11
 shape:11
 alt:11
@@ -422,6 +421,7 @@ electronic:11
 temp:11
 area:12
 gray:12
+speedstar:12
 colour:12
 showing:12
 cpu:12
@@ -488,7 +488,6 @@ ready:12
 alone:12
 regular:12
 power:12
-nz:12
 awful:12
 awful	herringshaw:10
 feel	awful	herringshaw:10
@@ -29206,6 +29205,7 @@ vnet:13
 san:13
 put:13
 richard:13
+converter:13
 down:13
 instead:13
 less:13
@@ -33344,6 +33344,10 @@ proposed	herringshaw	tdawson:11
 personally	proposed	herringshaw	tdawson:11
 proposed	feel:12
 personally	proposed	feel:12
+proposed	tdawson:12
+proposed	tdawson	feel:11
+personally	proposed	tdawson	feel:11
+proposed	tdawson	personally:12
 proposed	forum:12
 proposed	forum	tdawson:11
 personally	proposed	forum	tdawson:11
@@ -33368,10 +33372,6 @@ proposed	learn	forum:12
 personally	proposed	learn	forum:12
 feel	proposed	learn	forum:12
 personally	feel	proposed	learn	forum:12
-proposed	tdawson:12
-proposed	tdawson	feel:11
-personally	proposed	tdawson	feel:11
-proposed	tdawson	personally:12
 proposed	personally:13
 products:15
 perhaps:15
@@ -33388,7 +33388,6 @@ rate	processor:9
 deal:16
 home:16
 nova:16
-page:16
 takes:16
 corp:16
 thought:16
@@ -33476,6 +33475,7 @@ motion	rumours:9
 dr:17
 important:17
 explain:17
+pcx:17
 allow:17
 basic:17
 herringshaw:17
@@ -33494,6 +33494,7 @@ tdawson	personally	feel	herringshaw	forum:10
 herringshaw	personally:11
 tdawson	herringshaw	personally:11
 herringshaw	tdawson:17
+test:17
 31:17
 asked:17
 necessarily:17
@@ -33519,7 +33520,6 @@ tdawson:18
 tdawson	feel:11
 personally	tdawson	feel:11
 tdawson	personally:12
-40:18
 opinions:18
 times:19
 significance:19
@@ -33558,17 +33558,17 @@ recommend:21
 correct:22
 didn:22
 recently:22
+27:22
 graphic:22
 suggestions:22
 exactly:22
 apr:22
 personally:22
 personally	feel:13
-special:22
 wrong:23
+getting:23
 needs:23
 life:24
 ideas:24
 feel:24
 tried:24
-done:25
